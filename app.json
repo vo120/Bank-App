@@ -4,7 +4,6 @@
     "slug": "bank-app",
     "description": "Bank App UI Concept built with React Native and Expo",
     "privacy": "public",
-    "sdkVersion": "47.0.12",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -39,7 +38,7 @@
       }
     },
     "runtimeVersion": {
-      "policy": "appVersion"
+      "policy": "sdkVersion"
     }
   }
 }
