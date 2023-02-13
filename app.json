@@ -14,12 +14,9 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0,
-      "url": "https://u.expo.dev/1415c449-9b39-4c78-9e8d-2813708e59ec"
+      "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "ios"
@@ -38,9 +35,6 @@
       "eas": {
         "projectId": "1415c449-9b39-4c78-9e8d-2813708e59ec"
       }
-    },
-    "runtimeVersion": {
-      "policy": "sdkVersion"
     }
   }
 }
